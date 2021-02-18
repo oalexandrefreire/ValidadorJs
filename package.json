@@ -1,0 +1,30 @@
+{
+  "name": "validadorjs",
+  "version": "1.0.2",
+  "description": "Validador de CPF",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aningasistemas/validadorjs.git"
+  },
+  "keywords": [
+    "validar",
+    "cpf",
+    "cpf",
+    "validador",
+    "validador",
+    "de",
+    "cpf"
+  ],
+  "author": "Aninga Sistemas",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/aningasistemas/validadorjs/issues",
+    "email": "ale@alexandrefreire.me"
+  },
+  "homepage": "https://github.com/aningasistemas/validadorjs#readme"
+}
